@@ -1,0 +1,132 @@
+body {
+  font-family: Georgia;
+  background-color: white;
+  color: white;
+}
+
+.nav-pills {
+  font-family: Georgia;
+  font-style: oblique;
+  font-size: 1.7em;
+  background-color: black;
+  font-weight: bold;
+  max-width: 100%;
+  min-width: 20%;
+  }
+
+h1 {
+  padding: 0;
+  margin-top: 0px;
+  font-size: 5em;
+  opacity: none;
+  }
+
+.pageOne {
+  background: url("https://wallpapercave.com/wp/kSQdCxM.jpg");
+  background-size: cover;
+  padding-bottom: 15%;
+  }
+
+
+.btn-default {
+  background-color: black;
+  border-color: black;
+  font-family: arial;
+  font-size: 1.4em;
+  color: #337ab7;
+}
+ 
+.block{
+  background-color: black;
+  opacity: .6;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 15px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: white;
+}
+
+#myName{
+ font-size: 4em;
+ font-family: Georgia;
+ font-weight: bold;
+ }
+
+.pageTwo{
+  background: url(http://picalls.com/wp-content/uploads/2015/04/Lake-and-mountains-at-night.jpg);
+  background-size: cover;
+  height: 600px;
+  padding-top: 10%;
+  padding-left: 10%;
+}
+
+p {
+  font-size: 16px;
+  font-weight: bold;
+  text-align: left;
+  color: white;
+}
+
+#name {
+  font-weight: bold;
+  padding: 3%;
+  font-family: Georgia;
+  font-weight: bold;
+  color: white;
+}
+
+.me{
+  height: 350px;
+  padding-top: 5%;
+  opacity: .9;
+  border-radius: 50%;
+}
+
+h3{
+  font-size: 3em;
+}
+
+h4{
+  font-size: 1.8em;
+  font-style: oblique;
+}
+
+#gitHub{
+  color: purple;
+}
+
+#html{
+  color: #E65100;
+}
+
+#css{
+  color: #1976D2; 
+}
+
+.paddingTop{
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.pageThree{
+  background: url(http://bossfight.co/wp-content/uploads/2016/04/boss-fight-free-high-quality-stock-images-photos-photography-water-dark.jpg);
+  background-size: cover;
+  height: 1000px;
+  padding-top: 5%; 
+}
+
+#resume {
+  font-family: Georgia;
+  font-weight: bold;
+}
+
+.footer{
+  padding:4%;
+  border-style: solid;
+  border-width: medium;
+}
+
+
+
